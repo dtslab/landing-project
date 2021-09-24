@@ -1,4 +1,4 @@
-# ReactJs Landing Page 
+# Gandring Lab Landing Page 
 
 [![Screenshot](/public/gandringWeb.png?raw=true)](dtslab-gandring.vercel.app/)
 
